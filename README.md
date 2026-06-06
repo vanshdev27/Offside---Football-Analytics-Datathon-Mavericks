@@ -136,4 +136,4 @@ The script reads `train.csv` and `test.csv` from the project root and saves `sol
 | 20 | value_pct_of_peak | Raw Feature |
 
 ## 👤 Maverics
-Datathon MUJ 2026 — Round 1 Submission
+Datathon MUJ 2026 — Round 1 Submission.
