@@ -135,5 +135,5 @@ The script reads `train.csv` and `test.csv` from the project root and saves `sol
 | 19 | avg_xGBuildup | Raw Feature |
 | 20 | value_pct_of_peak | Raw Feature |
 
-## 👤 Maverics
+## 👤 Mavericks
 Datathon MUJ 2026 — Round 1 Submission.
