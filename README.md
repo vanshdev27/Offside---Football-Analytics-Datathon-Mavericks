@@ -2,7 +2,7 @@
 
 ## 🏆 Results
 - **Public Leaderboard Score: 0.55025 AP**
-- **Leaderboard Position: 3rd**
+- **Leaderboard Position: 4th**
 - **Metric: Average Precision (AP)**
 
 ## 📋 Problem Statement
